@@ -1,0 +1,4 @@
+// Initiate ZipFile object with the path/name of the zip file.
+			// Zip file may not necessarily exist. If zip file exists, then
+			// all these files are added to the zip file. If zip file does not
+			// exist, then a new zip file is created with the files mentioned
